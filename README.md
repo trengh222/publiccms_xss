@@ -4,6 +4,7 @@ publiccms后台增添数据存在xss
 ![image](https://github.com/user-attachments/assets/1d87a1e3-12c9-4129-b38e-0d4a3b7d4d24)
 之后点击“分类管理”功能：
 ![image](https://github.com/user-attachments/assets/16a4b8dd-a969-4927-a2a9-681a08db1864)
+
 之后在添加分类的标签和编码中输入代码：“
 <script>alert('XSS')</script>”并保存:
 ![image](https://github.com/user-attachments/assets/27113adc-0243-4051-9282-a367f7070d45)
