@@ -1,4 +1,4 @@
-# publiccms_xss
+# publiccms_xss version:V4.0.202406
 Public CMS backend data addition is vulnerable to XSS. First, log in to the backend：
 
 ![image](https://github.com/user-attachments/assets/1d87a1e3-12c9-4129-b38e-0d4a3b7d4d24)
