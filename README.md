@@ -8,6 +8,9 @@ Afterward, in the label and code input fields for adding a category, enter the c
 ![image](https://github.com/user-attachments/assets/27113adc-0243-4051-9282-a367f7070d45)
 After logging out, refresh the interface and click on "Edit Category" to trigger the XSS:
 ![image](https://github.com/user-attachments/assets/4fda9377-3929-4f23-ad39-979585c17960)
+Repair suggestion: Perform necessary filtering and commenting of dangerous functions at the input points.
+
+
 
 
 
